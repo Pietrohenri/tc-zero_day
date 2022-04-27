@@ -1,4 +1,4 @@
 # tc-zero_day
 Este é meu primeiro repositório
 primeira atividade
-atividade 0 do git
+teste de commit atividade 0 do git
